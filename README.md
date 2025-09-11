@@ -1,6 +1,8 @@
-## Hi there 👋
+<!-- 
+I guess this stuff is commented out. 
 
-<!--
+### Hi there 👋
+
 **ashleypock/ashleypock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello. My name is Ashley Pock. I'm currently a sophomore majoring in Computer Science and Engineering. I enjoy talking with others and am driven to learn. I figured I'd experiment with Github and see what the hype's all about. ₍^. .^₎⟆
