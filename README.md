@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello. My name is Ashley Pock. I'm currently a sophomore majoring in Computer Science and Engineering. I enjoy talking with others and am driven to learn. I figured I'd experiment with Github and see what the hype's all about. ₍^. .^₎⟆
+Hello. My name is Ashley Pock. I'm currently a junior majoring in Computer Science and Engineering. I enjoy talking with others and am driven to learn. I figured I'd experiment with Github and see what the hype's all about. ₍^. .^₎⟆
